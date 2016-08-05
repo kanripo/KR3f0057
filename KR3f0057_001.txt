@@ -1,4 +1,4 @@
-﻿# -*- mode: mandoku-view; -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 佛國暦象編
 #+DATE: 2016-08-3 00:00:00.000000
 #+PROPERTY: ID KR3f0057
