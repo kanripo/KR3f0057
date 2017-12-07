@@ -2,9 +2,9 @@
 #+TITLE: 佛國暦象編
 #+DATE: 2016-08-3 00:00:00.000000
 #+PROPERTY: ID KR3f0057
-#+PROPERTY: BASEEDITION TZH    
+#+PROPERTY: BASEEDITION KGZ    
 
-円通著佛國暦象編 底本:(德風本)東叡大王府藏版
+円通著佛國暦象編 底本:鉤玄寺版
 
 [[file:KR3f0057_000.txt::000-01a][佛國暦象編序]]
 [[file:KR3f0057_000.txt::000-09a][佛國暦象編篇目]]
